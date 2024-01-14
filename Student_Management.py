@@ -1,4 +1,6 @@
 # Student Management system
+
+# Note that to Run this file, you must download the Functions.py file in your device
 from Functions import *
 while True:
     print("Press 1 to add data")
